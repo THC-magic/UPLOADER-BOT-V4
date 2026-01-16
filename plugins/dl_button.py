@@ -1,4 +1,4 @@
-# @Shrimadhav Uk | @LISA_FAN_LK
+# ig-magic #t.me/ig_magic
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
