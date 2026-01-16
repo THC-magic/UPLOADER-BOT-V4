@@ -1,14 +1,14 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/UnZip-Bot
+# ©️ IG-MAGIC | @IG_MAGIC |
 
-# [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/UPLOADER-BOT-V4
+# [⚠️ Do not change this repo link ⚠️] :- https://github.com/THC-MAGIC
 
-# My Telegram Channel :- @NT_BOT_CHANNEL
+# My Telegram Channel 
 
-# Support Group :- @NT_BOTS_SUPPORT
+# Support Group :- https://t.me/+WRA9uSFlsTAzMWE9
 
-# My Youtube Channel :- https://youtube.com/@ntbot?si=TJaNuy4e1HqWirqQ
+# My Youtube Channel :- https://youtube.com/
 
-# Developers Usernames :- @JOBIN_JUSTIN , @LISA_FAN_LK
+# Developers Usernames :- @IG_MAGIC
 
 # (C) Don’t Change And Edit This File ✍️ | Warning ⚠️
 
