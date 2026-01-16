@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @ig_magic2026
 
 from pyrogram import Client
 from plugins.database.database import db
