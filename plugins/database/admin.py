@@ -1,3 +1,4 @@
+#ig-magic ! @ig_maguc ! THC-MAGIC
 import shutil
 import psutil
 from pyrogram import filters
