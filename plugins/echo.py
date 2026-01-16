@@ -1,4 +1,4 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | TG-SORRY
+# ©️ ig-magic
 
 
 import logging
