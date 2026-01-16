@@ -1,3 +1,5 @@
+# @ig-magic
+
 import os
 import asyncio
 from plugins.config import Config
